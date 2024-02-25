@@ -29,9 +29,9 @@
 
 <h2 align="left">📊 GitHub Statistics</h2>
     <div align=left>
-      <img width=400 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ikoyozu11&count_private=true&theme=gruvbox&border_radius=10&hide_border=true" alt="streak stats"/>
+      <img width=500 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ikoyozu11&count_private=true&theme=gruvbox&border_radius=10&hide_border=true" alt="streak stats"/>
       <br/>
-      <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=ikoyozu11&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+      <img width=400 src="https://github-readme-stats-salesp07.vercel.app/api?username=ikoyozu11&count_private=true&show_icons=true&theme=gruvbox&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
       <img width=325 src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=ikoyozu11&hide=HTML&langs_count=8&layout=compact&theme=gruvbox&border_radius=10&hide_border=true&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
     </div>
 
