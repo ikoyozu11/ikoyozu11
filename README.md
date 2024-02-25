@@ -1,5 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ikoyozu11.ikoyozu11" />
-
 <h1 align="left">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7AA00&center=false&vCenter=true&width=800&height=70&duration=4000&pause=500&lines=⚡+Welcome+to+My+GitHub+Profile+⚡;+Hi+There!+👋+%2C+I'm+Okky+Rangga+Pratama+😁;"/>
 </h1>
@@ -63,3 +61,6 @@
           <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
         </a>
     </div>
+
+<br/>
+<img src="https://komarev.com/ghpvc/?username=ikoyozu11&style=plastic&label=Views">
