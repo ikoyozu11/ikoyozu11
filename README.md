@@ -47,7 +47,7 @@
 
 <h2 align="left">📱 Contact Me</h2>
     <div align="left"> 
-        If you are interested about me, You can contact me or see other information about me
+        If you want to know more about me, you can visit the link below
     </div>
 <br/>
     <div align="left"> 
@@ -63,4 +63,4 @@
     </div>
 
 <br/>
-<img src="https://komarev.com/ghpvc/?username=ikoyozu11&style=plastic&label=Views">
+<img align="right" src="https://komarev.com/ghpvc/?username=ikoyozu11&style=plastic&label=Views">
