@@ -12,11 +12,21 @@
 <hr/>
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
-<!--     <div align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,mysql,laravel,bootstrap" />
-        <br/>
-        <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
-    </div> -->
+
+![C](https://img.shields.io/badge/C-555555.svg?&style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C.svg?&style=flat&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396.svg?&style=flat&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26.svg?&style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6.svg?&style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=flat&logo=javascript&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20.svg?&style=flat&logo=laravel&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-38B2AC.svg?&style=flat&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?&style=flat&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
 
 <hr/>
 
