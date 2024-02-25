@@ -6,7 +6,7 @@
 
 <h3 align="left">A passionate Software Development from Indonesia 🌐</h3>
   <div align="left">  
-    You can call Me Kyy😁. I am from Malang, East Java, Indonesia and currently studies at Telkom University Surabaya majoring Informatic 🧑‍💻
+    I am from Malang, East Java, Indonesia and currently studies at Telkom University Surabaya majoring Informatic 🧑‍💻
   </div>
 
 <hr/>
