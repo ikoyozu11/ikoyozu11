@@ -12,11 +12,11 @@
 <hr/>
  
 <h2 align="left">⚒️ Languages-Frameworks-Tools</h2>
-    <div align="left">
+<!--     <div align="left">
         <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,python,mysql,laravel,bootstrap" />
         <br/>
         <img src="https://skillicons.dev/icons?i=vscode,github,git,figma" />
-    </div>
+    </div> -->
 
 <hr/>
 
