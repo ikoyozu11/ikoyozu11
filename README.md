@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=F7AA00&center=false&vCenter=true&width=800&height=70&duration=4000&pause=500&lines=⚡+Welcome+to+My+GitHub+Profile+⚡;+Hi+There!+👋+%2C+I+am+Okky+Rangga+Pratama+😁;"/>
 </h1>
 
-<h3 align="left">A passionate Software Development from Indonesia 🌐</h3>
+<h3 align="left">A passionate Web Programming from Indonesia 🌐</h3>
     <div align="left">  
         I am from Malang, East Java, Indonesia and currently studies at Telkom University Surabaya majoring Informatic 🧑‍💻
     </div>
