@@ -21,6 +21,7 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?&style=flat&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?&style=flat&logo=github&logoColor=white)
+![Git Bash](https://img.shields.io/badge/Git%20Bash-4EAA25.svg?&style=flat&logo=git&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)
 
 <hr/>
