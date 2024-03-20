@@ -30,7 +30,7 @@
 
 - GOOGLE DEVELOPER STUDENT CLUB Telkom University Surabaya - Mobile Development Division Member
 - CODER Telkom University Surabaya - Mobile Development Division Member
-- CODER Telkom University Surabaya - Vice chairman of the mobile development division for the 2023/2024 period
+- CODER Telkom University Surabaya - Vice Chairman of the Mobile Development Division for the 2023/2024 period
 
 <hr/>
 
