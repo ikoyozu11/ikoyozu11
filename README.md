@@ -34,12 +34,14 @@
 <hr/>
 
 <h2 align="left">📊 GitHub Statistics</h2>
-    <div align=left>
-      <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=ikoyozu11&count_private=true&theme=gruvbox&hide_border=true" alt="streak stats"/>
-      <br/>
-      <img width=400 src="https://github-readme-stats.vercel.app/api?username=ikoyozu11&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" alt="readme stats" />
-      <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoyozu11&hide_title=true&hide_border=true&layout=compact&theme=gruvbox" alt="readme stats" />
-    </div>
+<p>
+    <img width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=ikoyozu11&count_private=true&theme=gruvbox&hide_border=true" alt="streak stats"/>
+</p>
+<p>
+    <img  src="https://github-readme-stats.vercel.app/api?username=ikoyozu11&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=gruvbox" /> 
+     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikoyozu11&hide_title=true&hide_border=true&layout=compact&langs_count=8&theme=gruvbox" />
+</p>
+
 
 <hr/>
 
