@@ -60,7 +60,7 @@
         <a href="mailto:ikoyozu@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
         </a>
-        <a href="https://www.instagram.com/okkypratamaaa_/" target="_blank">
+        <a href="https://www.instagram.com/okky.rngprtm/" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
         </a>
         <a href="https://linkedin.com/in/okky-rangga-pratama-10a11429a" target="_blank">
